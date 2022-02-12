@@ -26,7 +26,7 @@ void dataTypes(int a, float b, double c, long long l, string d){
     
     cout << p << " " << q << " " << r <<" "<< m <<endl;
     
-    cout << d << " " << d[3] << endl; //write 3 for index
+    cout << d << " " << d[3] << endl; //write 3 for index given
 
 }
 
